@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.689f9672.chunk.css",
+    "main.js": "/portfolio/static/js/main.94615718.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.94615718.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.45020585.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.45020585.js.map",
+    "static/js/2.f41137df.chunk.js": "/portfolio/static/js/2.f41137df.chunk.js",
+    "static/js/2.f41137df.chunk.js.map": "/portfolio/static/js/2.f41137df.chunk.js.map",
+    "static/js/3.29b289af.chunk.js": "/portfolio/static/js/3.29b289af.chunk.js",
+    "static/js/3.29b289af.chunk.js.map": "/portfolio/static/js/3.29b289af.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.689f9672.chunk.css.map": "/portfolio/static/css/main.689f9672.chunk.css.map",
+    "static/js/2.f41137df.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f41137df.chunk.js.LICENSE.txt",
+    "static/media/facerecognition.64d6373b.png": "/portfolio/static/media/facerecognition.64d6373b.png",
+    "static/media/my-picture.39d00580.png": "/portfolio/static/media/my-picture.39d00580.png",
+    "static/media/pengabdian.b90de97b.png": "/portfolio/static/media/pengabdian.b90de97b.png",
+    "static/media/praktekdokter.b777bb5e.png": "/portfolio/static/media/praktekdokter.b777bb5e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45020585.js",
+    "static/js/2.f41137df.chunk.js",
+    "static/css/main.689f9672.chunk.css",
+    "static/js/main.94615718.chunk.js"
+  ]
+}
